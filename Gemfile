@@ -12,7 +12,6 @@ gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 
-gem 'mysql2'
 gem 'httparty'
 gem 'webmock'
 gem 'vcr'
